@@ -11,7 +11,7 @@ namespace Singleton
         static void Main(string[] args)
         {
             Demo demo = Demo.Instance;
-            demo.Value = 128;
+            demo.Value = 12;
 
             Demo demo1 = Demo.Instance;
             Console.WriteLine(demo1.Value);
