@@ -1,0 +1,14 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\bin\Debug\ÜDatentypen.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\bin\Debug\ÜDatentypen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\bin\Debug\ÜDatentypen.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\ÜDatentypen.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\MainWindow.g.cs
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\App.g.cs
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\ÜDatentypen_MarkupCompile.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\ÜDatentypen_MarkupCompile.lref
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\MainWindow.baml
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\ÜDatentypen.g.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\ÜDatentypen.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\ÜDatentypen.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\ÜDatentypen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatentypen\ÜDatentypen\obj\Debug\ÜDatentypen.pdb

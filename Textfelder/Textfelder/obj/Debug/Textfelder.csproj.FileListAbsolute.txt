@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\Textfelder\Textfelder\bin\Debug\Textfelder.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\Textfelder\Textfelder\bin\Debug\Textfelder.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Textfelder\Textfelder\bin\Debug\Textfelder.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\Textfelder\Textfelder\obj\Debug\Textfelder.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Textfelder\Textfelder\obj\Debug\Textfelder.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Textfelder\Textfelder\obj\Debug\Textfelder.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Textfelder\Textfelder\obj\Debug\Textfelder.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Textfelder\Textfelder\obj\Debug\Textfelder.pdb

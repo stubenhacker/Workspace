@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.pdb

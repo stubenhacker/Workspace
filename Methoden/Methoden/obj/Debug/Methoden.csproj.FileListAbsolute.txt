@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\Methoden\Methoden\bin\Debug\Methoden.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\Methoden\Methoden\bin\Debug\Methoden.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Methoden\Methoden\bin\Debug\Methoden.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\Methoden\Methoden\obj\Debug\Methoden.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Methoden\Methoden\obj\Debug\Methoden.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Methoden\Methoden\obj\Debug\Methoden.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Methoden\Methoden\obj\Debug\Methoden.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Methoden\Methoden\obj\Debug\Methoden.pdb

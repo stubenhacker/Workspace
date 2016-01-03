@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.pdb

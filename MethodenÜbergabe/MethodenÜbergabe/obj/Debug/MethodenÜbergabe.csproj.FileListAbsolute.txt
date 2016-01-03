@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\bin\Debug\MethodenÜbergabe.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\obj\Debug\MethodenÜbergabe.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\obj\Debug\MethodenÜbergabe.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\obj\Debug\MethodenÜbergabe.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\obj\Debug\MethodenÜbergabe.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\bin\Debug\MethodenÜbergabe.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\bin\Debug\MethodenÜbergabe.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\obj\Debug\MethodenÜbergabe.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\MethodenÜbergabe\MethodenÜbergabe\obj\Debug\MethodenÜbergabe.pdb

@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\bin\Debug\IfElse.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\bin\Debug\IfElse.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\bin\Debug\IfElse.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\obj\Debug\IfElse.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\obj\Debug\IfElse.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\obj\Debug\IfElse.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\obj\Debug\IfElse.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\obj\Debug\IfElse.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\IfElse\IfElse\obj\Debug\IfElse.pdb

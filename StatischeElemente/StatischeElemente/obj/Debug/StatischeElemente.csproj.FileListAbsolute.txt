@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.pdb

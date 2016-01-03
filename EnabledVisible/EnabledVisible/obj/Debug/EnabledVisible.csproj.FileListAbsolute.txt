@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.csprojResolveAssemblyReference.cache

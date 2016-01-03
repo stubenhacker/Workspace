@@ -1,0 +1,5 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\CopperCoins\CopperCoins\bin\Debug\CopperCoins.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\CopperCoins\CopperCoins\bin\Debug\CopperCoins.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\CopperCoins\CopperCoins\bin\Debug\CopperCoins.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\CopperCoins\CopperCoins\obj\Debug\CopperCoins.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\CopperCoins\CopperCoins\obj\Debug\CopperCoins.pdb

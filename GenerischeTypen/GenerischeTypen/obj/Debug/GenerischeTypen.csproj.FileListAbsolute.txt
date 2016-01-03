@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\bin\Debug\GenerischeTypen.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\bin\Debug\GenerischeTypen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\bin\Debug\GenerischeTypen.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\GenerischeTypen\GenerischeTypen\obj\Debug\GenerischeTypen.pdb

@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\bin\Debug\WhileDoWhileSchleifen.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\bin\Debug\WhileDoWhileSchleifen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\bin\Debug\WhileDoWhileSchleifen.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.pdb

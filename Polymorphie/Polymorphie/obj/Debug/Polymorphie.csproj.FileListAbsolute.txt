@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\Polymorphie\Polymorphie\bin\Debug\Polymorphie.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Polymorphie\Polymorphie\bin\Debug\Polymorphie.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Polymorphie\Polymorphie\bin\Debug\Polymorphie.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.pdb

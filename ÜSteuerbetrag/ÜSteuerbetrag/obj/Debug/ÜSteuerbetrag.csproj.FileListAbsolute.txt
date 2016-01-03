@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\bin\Debug\ÜSteuerbetrag.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\bin\Debug\ÜSteuerbetrag.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\bin\Debug\ÜSteuerbetrag.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\obj\Debug\ÜSteuerbetrag.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\obj\Debug\ÜSteuerbetrag.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\obj\Debug\ÜSteuerbetrag.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\obj\Debug\ÜSteuerbetrag.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\obj\Debug\ÜSteuerbetrag.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuerbetrag\ÜSteuerbetrag\obj\Debug\ÜSteuerbetrag.pdb

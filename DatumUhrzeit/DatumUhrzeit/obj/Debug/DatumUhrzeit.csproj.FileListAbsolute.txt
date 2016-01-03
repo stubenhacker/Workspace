@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.pdb

@@ -1,0 +1,5 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\KonsoleEinAus.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\KonsoleEinAus.pdb

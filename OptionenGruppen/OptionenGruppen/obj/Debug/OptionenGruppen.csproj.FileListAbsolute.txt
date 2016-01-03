@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\bin\Debug\OptionenGruppen.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\bin\Debug\OptionenGruppen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\bin\Debug\OptionenGruppen.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\obj\Debug\OptionenGruppen.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\obj\Debug\OptionenGruppen.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\obj\Debug\OptionenGruppen.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\obj\Debug\OptionenGruppen.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\obj\Debug\OptionenGruppen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\OptionenGruppen\OptionenGruppen\obj\Debug\OptionenGruppen.pdb

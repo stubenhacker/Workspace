@@ -1,0 +1,15 @@
+﻿<Window x:Class="ÜDatentypen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ÜDatentypen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="cmdAnzeige1" Content="Anzeige 1" HorizontalAlignment="Left" Margin="377,93,0,0" VerticalAlignment="Top" Width="75" Height="43" Click="cmdAnzeige1_Click"/>
+        <Button x:Name="cmdAnzeige2" Content="Anzeige 2" HorizontalAlignment="Left" Margin="377,141,0,0" VerticalAlignment="Top" Width="75" Height="47" Click="cmdAnzeige2_Click"/>
+        <Label x:Name="lblAnzeige" Content="" HorizontalAlignment="Left" Margin="34,81,0,0" VerticalAlignment="Top" Height="124" Width="297"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.pdb

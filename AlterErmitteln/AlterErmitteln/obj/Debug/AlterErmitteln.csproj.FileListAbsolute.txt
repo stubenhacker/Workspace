@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\bin\Debug\AlterErmitteln.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\bin\Debug\AlterErmitteln.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\bin\Debug\AlterErmitteln.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\obj\Debug\AlterErmitteln.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\obj\Debug\AlterErmitteln.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\obj\Debug\AlterErmitteln.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\obj\Debug\AlterErmitteln.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\obj\Debug\AlterErmitteln.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\AlterErmitteln\AlterErmitteln\obj\Debug\AlterErmitteln.pdb

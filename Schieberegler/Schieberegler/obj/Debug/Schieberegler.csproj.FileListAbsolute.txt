@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\Schieberegler\Schieberegler\bin\Debug\Schieberegler.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\Schieberegler\Schieberegler\bin\Debug\Schieberegler.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Schieberegler\Schieberegler\bin\Debug\Schieberegler.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.pdb

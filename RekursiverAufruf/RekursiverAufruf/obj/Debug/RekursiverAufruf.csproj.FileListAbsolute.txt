@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.pdb

@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\bin\Debug\AllgemeineListe.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\bin\Debug\AllgemeineListe.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\bin\Debug\AllgemeineListe.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\obj\Debug\AllgemeineListe.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\obj\Debug\AllgemeineListe.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\obj\Debug\AllgemeineListe.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\obj\Debug\AllgemeineListe.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\obj\Debug\AllgemeineListe.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\AllgemeineListe\AllgemeineListe\obj\Debug\AllgemeineListe.pdb

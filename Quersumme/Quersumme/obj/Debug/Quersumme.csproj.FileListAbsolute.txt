@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\bin\Debug\Quersumme.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\bin\Debug\Quersumme.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\bin\Debug\Quersumme.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\obj\Debug\Quersumme.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\obj\Debug\Quersumme.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\obj\Debug\Quersumme.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\obj\Debug\Quersumme.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\obj\Debug\Quersumme.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Quersumme\Quersumme\obj\Debug\Quersumme.pdb

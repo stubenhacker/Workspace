@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\bin\Debug\TageAddieren.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\bin\Debug\TageAddieren.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\bin\Debug\TageAddieren.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\obj\Debug\TageAddieren.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\obj\Debug\TageAddieren.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\obj\Debug\TageAddieren.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\obj\Debug\TageAddieren.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\obj\Debug\TageAddieren.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\TageAddieren\TageAddieren\obj\Debug\TageAddieren.pdb

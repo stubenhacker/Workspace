@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\ForSchleife\ForSchleife\bin\Debug\ForSchleife.exe.config
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\ForSchleife\ForSchleife\bin\Debug\ForSchleife.exe
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\ForSchleife\ForSchleife\bin\Debug\ForSchleife.pdb
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csprojResolveAssemblyReference.cache
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\ForSchleife\ForSchleife\obj\Debug\ForSchleife.Form1.resources
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\ForSchleife\ForSchleife\obj\Debug\ForSchleife.Properties.Resources.resources
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csproj.GenerateResource.Cache
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\ForSchleife\ForSchleife\obj\Debug\ForSchleife.exe
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\ForSchleife\ForSchleife\obj\Debug\ForSchleife.pdb

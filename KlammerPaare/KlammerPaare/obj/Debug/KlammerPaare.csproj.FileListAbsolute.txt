@@ -1,0 +1,6 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\KlammerPaare\KlammerPaare\bin\Debug\KlammerPaare.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\KlammerPaare\KlammerPaare\bin\Debug\KlammerPaare.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\KlammerPaare\KlammerPaare\bin\Debug\KlammerPaare.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\KlammerPaare\KlammerPaare\obj\Debug\KlammerPaare.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\KlammerPaare\KlammerPaare\obj\Debug\KlammerPaare.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\KlammerPaare\KlammerPaare\obj\Debug\KlammerPaare.pdb

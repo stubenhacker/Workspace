@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\bin\Debug\ÜDatenfeldEindimensional.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\bin\Debug\ÜDatenfeldEindimensional.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\bin\Debug\ÜDatenfeldEindimensional.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\obj\Debug\ÜDatenfeldEindimensional.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\obj\Debug\ÜDatenfeldEindimensional.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\obj\Debug\ÜDatenfeldEindimensional.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\obj\Debug\ÜDatenfeldEindimensional.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\obj\Debug\ÜDatenfeldEindimensional.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜDatenfeldEindimensional\ÜDatenfeldEindimensional\obj\Debug\ÜDatenfeldEindimensional.pdb

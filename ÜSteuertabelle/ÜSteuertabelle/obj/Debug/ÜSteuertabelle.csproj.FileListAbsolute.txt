@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuertabelle\ÜSteuertabelle\bin\Debug\ÜSteuertabelle.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuertabelle\ÜSteuertabelle\bin\Debug\ÜSteuertabelle.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuertabelle\ÜSteuertabelle\bin\Debug\ÜSteuertabelle.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuertabelle\ÜSteuertabelle\obj\Debug\ÜSteuertabelle.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuertabelle\ÜSteuertabelle\obj\Debug\ÜSteuertabelle.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuertabelle\ÜSteuertabelle\obj\Debug\ÜSteuertabelle.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuertabelle\ÜSteuertabelle\obj\Debug\ÜSteuertabelle.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜSteuertabelle\ÜSteuertabelle\obj\Debug\ÜSteuertabelle.pdb

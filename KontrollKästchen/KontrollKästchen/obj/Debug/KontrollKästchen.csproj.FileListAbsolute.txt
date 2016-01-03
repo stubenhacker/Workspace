@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\KontrollKästchen\KontrollKästchen\bin\Debug\KontrollKästchen.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\KontrollKästchen\KontrollKästchen\bin\Debug\KontrollKästchen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\KontrollKästchen\KontrollKästchen\bin\Debug\KontrollKästchen.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\KontrollKästchen\KontrollKästchen\obj\Debug\KontrollKästchen.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\KontrollKästchen\KontrollKästchen\obj\Debug\KontrollKästchen.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\KontrollKästchen\KontrollKästchen\obj\Debug\KontrollKästchen.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\KontrollKästchen\KontrollKästchen\obj\Debug\KontrollKästchen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\KontrollKästchen\KontrollKästchen\obj\Debug\KontrollKästchen.pdb

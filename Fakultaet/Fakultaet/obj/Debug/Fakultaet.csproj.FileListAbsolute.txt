@@ -1,0 +1,5 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\Fakultaet\Fakultaet\bin\Debug\Fakultaet.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\Fakultaet\Fakultaet\bin\Debug\Fakultaet.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Fakultaet\Fakultaet\bin\Debug\Fakultaet.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\Fakultaet\Fakultaet\obj\Debug\Fakultaet.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Fakultaet\Fakultaet\obj\Debug\Fakultaet.pdb

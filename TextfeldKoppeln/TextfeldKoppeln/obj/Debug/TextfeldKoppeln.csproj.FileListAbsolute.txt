@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\TextfeldKoppeln\TextfeldKoppeln\bin\Debug\TextfeldKoppeln.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\TextfeldKoppeln\TextfeldKoppeln\bin\Debug\TextfeldKoppeln.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\TextfeldKoppeln\TextfeldKoppeln\bin\Debug\TextfeldKoppeln.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.pdb

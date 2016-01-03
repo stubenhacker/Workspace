@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.pdb

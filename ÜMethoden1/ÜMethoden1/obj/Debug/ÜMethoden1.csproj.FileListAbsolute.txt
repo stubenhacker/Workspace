@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\bin\Debug\ÜMethoden1.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\bin\Debug\ÜMethoden1.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\bin\Debug\ÜMethoden1.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\obj\Debug\ÜMethoden1.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\obj\Debug\ÜMethoden1.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\obj\Debug\ÜMethoden1.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\obj\Debug\ÜMethoden1.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\obj\Debug\ÜMethoden1.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜMethoden1\ÜMethoden1\obj\Debug\ÜMethoden1.pdb

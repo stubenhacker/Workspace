@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.pdb

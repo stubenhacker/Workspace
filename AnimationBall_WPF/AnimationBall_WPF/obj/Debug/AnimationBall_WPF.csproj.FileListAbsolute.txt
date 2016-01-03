@@ -1,0 +1,14 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\bin\Debug\AnimationBall_WPF.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\bin\Debug\AnimationBall_WPF.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\bin\Debug\AnimationBall_WPF.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\AnimationBall_WPF.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\MainWindow.g.cs
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\App.g.cs
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\AnimationBall_WPF_MarkupCompile.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\AnimationBall_WPF_MarkupCompile.lref
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\MainWindow.baml
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\AnimationBall_WPF.g.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\AnimationBall_WPF.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\AnimationBall_WPF.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\AnimationBall_WPF.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\AnimationBall_WPF\AnimationBall_WPF\obj\Debug\AnimationBall_WPF.pdb

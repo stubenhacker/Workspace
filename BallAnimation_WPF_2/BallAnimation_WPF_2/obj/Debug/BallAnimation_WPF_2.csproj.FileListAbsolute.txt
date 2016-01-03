@@ -1,0 +1,14 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\bin\Debug\BallAnimation_WPF_2.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\bin\Debug\BallAnimation_WPF_2.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\bin\Debug\BallAnimation_WPF_2.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\BallAnimation_WPF_2.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\MainWindow.g.cs
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\App.g.cs
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\BallAnimation_WPF_2_MarkupCompile.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\BallAnimation_WPF_2_MarkupCompile.lref
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\MainWindow.baml
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\BallAnimation_WPF_2.g.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\BallAnimation_WPF_2.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\BallAnimation_WPF_2.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\BallAnimation_WPF_2.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\BallAnimation_WPF_2\BallAnimation_WPF_2\obj\Debug\BallAnimation_WPF_2.pdb

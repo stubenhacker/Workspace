@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜForSchleifen\ÜForSchleifen\bin\Debug\ÜForSchleifen.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜForSchleifen\ÜForSchleifen\bin\Debug\ÜForSchleifen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜForSchleifen\ÜForSchleifen\bin\Debug\ÜForSchleifen.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜForSchleifen\ÜForSchleifen\obj\Debug\ÜForSchleifen.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜForSchleifen\ÜForSchleifen\obj\Debug\ÜForSchleifen.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜForSchleifen\ÜForSchleifen\obj\Debug\ÜForSchleifen.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜForSchleifen\ÜForSchleifen\obj\Debug\ÜForSchleifen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ÜForSchleifen\ÜForSchleifen\obj\Debug\ÜForSchleifen.pdb

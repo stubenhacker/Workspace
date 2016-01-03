@@ -1,0 +1,8 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\Optionen\Optionen\bin\Debug\Optionen.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\Optionen\Optionen\bin\Debug\Optionen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Optionen\Optionen\bin\Debug\Optionen.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\Optionen\Optionen\obj\Debug\Optionen.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Optionen\Optionen\obj\Debug\Optionen.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\Optionen\Optionen\obj\Debug\Optionen.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\Optionen\Optionen\obj\Debug\Optionen.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\Optionen\Optionen\obj\Debug\Optionen.pdb

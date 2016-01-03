@@ -1,0 +1,6 @@
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\DoppeltVerketteteListe\DoppeltVerketteteListe\bin\Debug\DoppeltVerketteteListe.exe.config
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\DoppeltVerketteteListe\DoppeltVerketteteListe\bin\Debug\DoppeltVerketteteListe.exe
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\DoppeltVerketteteListe\DoppeltVerketteteListe\bin\Debug\DoppeltVerketteteListe.pdb
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\DoppeltVerketteteListe\DoppeltVerketteteListe\obj\Debug\DoppeltVerketteteListe.csprojResolveAssemblyReference.cache
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\DoppeltVerketteteListe\DoppeltVerketteteListe\obj\Debug\DoppeltVerketteteListe.exe
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\DoppeltVerketteteListe\DoppeltVerketteteListe\obj\Debug\DoppeltVerketteteListe.pdb

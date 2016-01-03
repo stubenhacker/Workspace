@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.Form1.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.Properties.Resources.resources
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.csproj.GenerateResource.Cache
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.pdb

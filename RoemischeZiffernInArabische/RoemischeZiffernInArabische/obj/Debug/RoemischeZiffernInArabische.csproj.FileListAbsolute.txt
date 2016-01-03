@@ -1,0 +1,6 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\RoemischeZiffernInArabische\RoemischeZiffernInArabische\bin\Debug\RoemischeZiffernInArabische.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\RoemischeZiffernInArabische\RoemischeZiffernInArabische\bin\Debug\RoemischeZiffernInArabische.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\RoemischeZiffernInArabische\RoemischeZiffernInArabische\bin\Debug\RoemischeZiffernInArabische.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\RoemischeZiffernInArabische\RoemischeZiffernInArabische\obj\Debug\RoemischeZiffernInArabische.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\RoemischeZiffernInArabische\RoemischeZiffernInArabische\obj\Debug\RoemischeZiffernInArabische.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\RoemischeZiffernInArabische\RoemischeZiffernInArabische\obj\Debug\RoemischeZiffernInArabische.pdb

@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\t410blue\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\t410blue\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\t410blue\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\t410blue\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\MatrixRotation\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\MatrixRotation\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\MatrixRotation\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

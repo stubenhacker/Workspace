@@ -1,0 +1,9 @@
+c:\users\t410blue\documents\visual studio 2015\Projects\StringGrundlagen\StringGrundlagen\bin\Debug\StringGrundlagen.exe.config
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\StringGrundlagen\StringGrundlagen\bin\Debug\StringGrundlagen.exe
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\StringGrundlagen\StringGrundlagen\bin\Debug\StringGrundlagen.pdb
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.csprojResolveAssemblyReference.cache
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.Form1.resources
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.Properties.Resources.resources
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.csproj.GenerateResource.Cache
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.exe
+C:\Users\T410blue\Documents\Visual Studio 2015\Projects\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.pdb
